@@ -1,3 +1,3 @@
 | 时间          | 日程                                                                                                                           |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 08/10 15:00 | [知乎面试](https://www.google.com/calendar/event?eid=NGg3bTM5ajM2NGQ0NW02NDBhOGdicmUzdTQgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
+| 08/11 14:00 | [声网一面](https://www.google.com/calendar/event?eid=MjdpOXRsdG8xZTFmY3B0bmMzOGIzZDE0azAgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
