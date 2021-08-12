@@ -10,8 +10,8 @@
 
 | 时间          | 日程                                                                                                                                  |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 08/11 14:00 | [声网一面](https://www.google.com/calendar/event?eid=MjdpOXRsdG8xZTFmY3B0bmMzOGIzZDE0azAgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)        |
 | 08/13 18:00 | [bilibili 面试](https://www.google.com/calendar/event?eid=cWZmNXJuMzY2dThta291azFjNWY2NnQyY2MgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
+| 08/17 17:00 | [腾讯一面](https://www.google.com/calendar/event?eid=bmx0ajZqZDYzdGpzN3ZraTdlYWpmZjAwa3MgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)        |
 
 ## 已投递
 - [携程](https://github.com/Mayandev/interview-schedule/issues/17) -- 2021-08-09
@@ -40,4 +40,4 @@
 - [【放弃面试】兴业银行](https://github.com/Mayandev/interview-schedule/issues/14) -- 2021-08-05
 - [【未通过笔试】拼多多](https://github.com/Mayandev/interview-schedule/issues/9) -- 2021-08-04
 - [【未通过简历筛选】Shopee](https://github.com/Mayandev/interview-schedule/issues/7) -- 2021-07-28
-- [京东](https://github.com/Mayandev/interview-schedule/issues/2) -- 2021-08-10
+- [【未通过 HR 面试】京东](https://github.com/Mayandev/interview-schedule/issues/2) -- 2021-08-12
