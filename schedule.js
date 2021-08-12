@@ -8,12 +8,16 @@ dayjs.extend(utc)
 const [calendar_id, client_id, client_secret, access_token, refresh_token] = process.argv.slice(2);
 const redirect_uri = 'https://mayandev.top';
 const oAuth2Client = new google.auth.OAuth2(client_id, client_secret, redirect_uri);
+// remove comment for local dev
+// process.env.HTTPS_PROXY = 'http://127.0.0.1:xxxx';
+// google.options({ proxy: 'http://127.0.0.1:xxxx' });
 
 oAuth2Client.setCredentials({
   access_token,
   refresh_token,
   scope: 'https://www.googleapis.com/auth/calendar.readonly',
-  token_type: 'Bearer'
+  token_type: 'Bearer',
+  expiry_date: 1627749865065,
 });
 
 async function listEvents(auth) {
