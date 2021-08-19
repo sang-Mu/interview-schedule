@@ -1,25 +1,26 @@
 {
-  "name": "job",
+  "name": "interview-schedule",
   "version": "1.0.0",
-  "description": "hust job info",
+  "description": "Auto interview schedule generate.",
   "main": "index.js",
   "scripts": {
     "auth": "cd google_calendar_auth && node ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mayandev/interview-2021.git"
+    "url": "git+https://github.com/mayandev/interview-schedule.git"
   },
   "keywords": [
     "job",
-    "recruit"
+    "recruit",
+    "interivew"
   ],
   "author": "phillzou <phillzou@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mayandev/interview-2021/issues"
+    "url": "https://github.com/Mayandev/interview-schedule/issues"
   },
-  "homepage": "https://github.com/Mayandev/interview-2021#readme",
+  "homepage": "https://github.com/Mayandev/interview-schedule#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "dayjs": "^1.10.6",
