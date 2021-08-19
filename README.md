@@ -24,25 +24,20 @@
 - [招商银行](https://github.com/Mayandev/interview-schedule/issues/12) -- 2021-07-24
 - [网易云音乐](https://github.com/Mayandev/interview-schedule/issues/4) -- 2021-07-29
 ## 待笔试
+- [腾讯](https://github.com/Mayandev/interview-schedule/issues/22) -- 2021-08-19
+- [美团](https://github.com/Mayandev/interview-schedule/issues/15) -- 2021-08-19
+- [拼多多](https://github.com/Mayandev/interview-schedule/issues/9) -- 2021-08-19
 - [SHEIN](https://github.com/Mayandev/interview-schedule/issues/8) -- 2021-07-28
 - [Zoom](https://github.com/Mayandev/interview-schedule/issues/6) -- 2021-07-23
+<details><summary>显示更多</summary>
+
 - [贝壳](https://github.com/Mayandev/interview-schedule/issues/3) -- 2021-08-17
 - [360](https://github.com/Mayandev/interview-schedule/issues/1) -- 2021-07-23
+</details>
+
 ## 面试中
 - [Bilibili](https://github.com/Mayandev/interview-schedule/issues/21) -- 2021-08-17
 - [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-08-17
 - [知乎](https://github.com/Mayandev/interview-schedule/issues/18) -- 2021-08-10
 - [小米](https://github.com/Mayandev/interview-schedule/issues/13) -- 2021-08-17
 - [百度](https://github.com/Mayandev/interview-schedule/issues/10) -- 2021-08-04
-## 流程终止
-- [【放弃面试】腾讯](https://github.com/Mayandev/interview-schedule/issues/22) -- 2021-08-17
-- [【放弃面试】美团](https://github.com/Mayandev/interview-schedule/issues/15) -- 2021-08-04
-- [【放弃面试】兴业银行](https://github.com/Mayandev/interview-schedule/issues/14) -- 2021-08-05
-- [【未通过笔试】拼多多](https://github.com/Mayandev/interview-schedule/issues/9) -- 2021-08-04
-- [【未通过简历筛选】Shopee](https://github.com/Mayandev/interview-schedule/issues/7) -- 2021-07-28
-<details><summary>显示更多</summary>
-
-- [【未通过笔试】猿辅导](https://github.com/Mayandev/interview-schedule/issues/5) -- 2021-08-19
-- [【未通过 HR 面试】京东](https://github.com/Mayandev/interview-schedule/issues/2) -- 2021-08-12
-</details>
-
