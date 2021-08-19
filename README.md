@@ -12,6 +12,7 @@
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | 08/19 17:00 | [Bilibili 二面](https://www.google.com/calendar/event?eid=NGxuMDlyYnYxM21ha2luMTNscDlscGU4Z3QgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
 | 08/21 10:00 | [有赞笔试](https://www.google.com/calendar/event?eid=c3VnamVwbmNkN204YTlra3RkazEwZ2hzdnMgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)        |
+| 08/22 20:00 | [腾讯笔试](https://www.google.com/calendar/event?eid=amg5NWdmNmJoM3RrcGIzMWU4NW1tZzU0cnMgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)        |
 
 ## 已投递
 - [携程](https://github.com/Mayandev/interview-schedule/issues/17) -- 2021-08-09
@@ -21,7 +22,6 @@
 ## 待笔试
 - [SHEIN](https://github.com/Mayandev/interview-schedule/issues/8) -- 2021-07-28
 - [Zoom](https://github.com/Mayandev/interview-schedule/issues/6) -- 2021-07-23
-- [【未通过笔试】猿辅导](https://github.com/Mayandev/interview-schedule/issues/5) -- 2021-08-18
 - [贝壳](https://github.com/Mayandev/interview-schedule/issues/3) -- 2021-08-17
 - [360](https://github.com/Mayandev/interview-schedule/issues/1) -- 2021-07-23
 ## 面试中
@@ -38,6 +38,7 @@
 - [【未通过简历筛选】Shopee](https://github.com/Mayandev/interview-schedule/issues/7) -- 2021-07-28
 <details><summary>显示更多</summary>
 
+- [【未通过笔试】猿辅导](https://github.com/Mayandev/interview-schedule/issues/5) -- 2021-08-19
 - [【未通过 HR 面试】京东](https://github.com/Mayandev/interview-schedule/issues/2) -- 2021-08-12
 </details>
 
