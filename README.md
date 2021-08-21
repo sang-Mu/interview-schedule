@@ -36,8 +36,7 @@
 </details>
 
 ## 面试中
-- [Bilibili](https://github.com/Mayandev/interview-schedule/issues/21) -- 2021-08-17
+- [Bilibili](https://github.com/Mayandev/interview-schedule/issues/21) -- 2021-08-20
 - [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-08-17
 - [知乎](https://github.com/Mayandev/interview-schedule/issues/18) -- 2021-08-10
-- [小米](https://github.com/Mayandev/interview-schedule/issues/13) -- 2021-08-17
 - [百度](https://github.com/Mayandev/interview-schedule/issues/10) -- 2021-08-04
