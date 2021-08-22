@@ -10,14 +10,11 @@
 
 | 时间          | 日程                                                                                                                            |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 08/21 14:00 | [腾讯面试](https://www.google.com/calendar/event?eid=OXA3ZWJmbnZtMDY1bjBhYWZhbGVmaHEybTQgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)  |
-| 08/21 15:00 | [网易笔试](https://www.google.com/calendar/event?eid=Z3FyMWhuZWk5MDM2MTdmc282Y3Vzc25vYTQgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)  |
-| 08/21 19:00 | [拼多多笔试](https://www.google.com/calendar/event?eid=Z28xbXNyZ2c0aGxjazBkZWZkNHY3NjU3YXMgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
 | 08/22 10:00 | [美团笔试](https://www.google.com/calendar/event?eid=dG10NGUyNDhzNWZycmZpbXNnbTVlamRxaGMgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)  |
+| 08/22 19:00 | [拼多多笔试](https://www.google.com/calendar/event?eid=Z28xbXNyZ2c0aGxjazBkZWZkNHY3NjU3YXMgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw) |
 | 08/22 20:00 | [腾讯笔试](https://www.google.com/calendar/event?eid=amg5NWdmNmJoM3RrcGIzMWU4NW1tZzU0cnMgYzZrZW9pbGFmdjk5cDE5dmw3ZmFpZHU4bWtAZw)  |
 
 ## 已投递
-- [小红书](https://github.com/Mayandev/interview-schedule/issues/23) -- 2021-08-21
 - [携程](https://github.com/Mayandev/interview-schedule/issues/17) -- 2021-08-09
 - [货拉拉](https://github.com/Mayandev/interview-schedule/issues/16) -- 2021-08-05
 - [招商银行](https://github.com/Mayandev/interview-schedule/issues/12) -- 2021-07-24
@@ -35,6 +32,7 @@
 </details>
 
 ## 面试中
+- [小红书](https://github.com/Mayandev/interview-schedule/issues/23) -- 2021-08-21
 - [Bilibili](https://github.com/Mayandev/interview-schedule/issues/21) -- 2021-08-20
 - [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-08-17
 - [知乎](https://github.com/Mayandev/interview-schedule/issues/18) -- 2021-08-10
