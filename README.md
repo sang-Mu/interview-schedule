@@ -10,7 +10,6 @@
 
 | 时间          | 日程                                                                                                                                                                       |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 08/28 15:00 | [心动网络笔试](https://www.google.com/calendar/event?eid=NjRwbThkYjM2aGlqNmJiMTZzbzMyYjlrNzVnbThiYjFja3BqMmJiNGM0cm00Y2oyNzRwbThvcjM2ayBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
 | 08/28 17:00 | [zoom笔试](https://www.google.com/calendar/event?eid=NnNwNmFwaG03MHJtYWJiNDZsaTY2YjlrNjBxamdiOXBjNHJqaWI5aGM0cG0yZDFuY29yM2VjcG9jayBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
 
 ## 已投递
@@ -19,13 +18,14 @@
 - [招商银行](https://github.com/Mayandev/interview-schedule/issues/12) -- 2021-07-24
 - [网易云音乐](https://github.com/Mayandev/interview-schedule/issues/4) -- 2021-07-29
 ## 待笔试
+- [心动网络](https://github.com/Mayandev/interview-schedule/issues/24) -- 2021-08-28
 - [腾讯](https://github.com/Mayandev/interview-schedule/issues/22) -- 2021-08-19
 - [美团](https://github.com/Mayandev/interview-schedule/issues/15) -- 2021-08-19
 - [拼多多](https://github.com/Mayandev/interview-schedule/issues/9) -- 2021-08-19
 - [SHEIN](https://github.com/Mayandev/interview-schedule/issues/8) -- 2021-07-28
-- [Zoom](https://github.com/Mayandev/interview-schedule/issues/6) -- 2021-07-23
 <details><summary>显示更多</summary>
 
+- [Zoom](https://github.com/Mayandev/interview-schedule/issues/6) -- 2021-07-23
 - [贝壳](https://github.com/Mayandev/interview-schedule/issues/3) -- 2021-08-17
 - [360](https://github.com/Mayandev/interview-schedule/issues/1) -- 2021-07-23
 </details>
