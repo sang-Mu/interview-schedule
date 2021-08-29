@@ -1,3 +1,2 @@
-| 时间          | 日程                                                                                                                                                                       |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 08/28 17:00 | [zoom笔试](https://www.google.com/calendar/event?eid=NnNwNmFwaG03MHJtYWJiNDZsaTY2YjlrNjBxamdiOXBjNHJqaWI5aGM0cG0yZDFuY29yM2VjcG9jayBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
+| 时间 | 日程 |
+| -- | -- |
