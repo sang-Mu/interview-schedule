@@ -8,8 +8,12 @@
 
 ## 面试日程
 
-| 时间 | 日程 |
-| -- | -- |
+| 时间          | 日程                                                                                                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09/01 16:00 | [SHEIN 面试](https://www.google.com/calendar/event?eid=Y2dwMzRwYjE2MWkzYWJiNGNkaDY0YjlrY2RqNjhiOW82a3AzY2I5bDZkZ2owY2oxNmNwNmFvcjU2ayBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
+| 09/01 17:00 | [美团hr面](https://www.google.com/calendar/event?eid=YzRwMzBjOW02MG8zZWI5ajc0czMwYjlrNnRoNjRiYjFjY3JqZWI5bTZsajY2cDM1NzBzamdjMW1jbyBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn)    |
+| 09/01 19:00 | [华为笔试](https://www.google.com/calendar/event?eid=Y2dxbTZjOWk3NWozZ2I5ajcxZ2pnYjlrY2dzamdiYjI2NHMzOGJiMzYwcDZhb2ozNm9ybWNvcjY2ZyBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn)     |
+| 09/02 14:00 | [快手面试](https://www.google.com/calendar/event?eid=Y29yamljaG1jaGlqOGJiNDY5aTNjYjlrNnRnbTRiOXA2NHJqMGI5a2NnbzNlYzFpNjRwbTJkcjJjbyBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn)     |
 
 ## 已投递
 - [携程](https://github.com/Mayandev/interview-schedule/issues/17) -- 2021-08-09
