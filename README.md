@@ -8,9 +8,8 @@
 
 ## 面试日程
 
-| 时间          | 日程                                                                                                                                                                     |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 09/02 14:00 | [快手面试](https://www.google.com/calendar/event?eid=Y29yamljaG1jaGlqOGJiNDY5aTNjYjlrNnRnbTRiOXA2NHJqMGI5a2NnbzNlYzFpNjRwbTJkcjJjbyBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
+| 时间 | 日程 |
+| -- | -- |
 
 ## Offer
 - [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-09-01
@@ -25,8 +24,13 @@
 - [贝壳](https://github.com/Mayandev/interview-schedule/issues/3) -- 2021-08-17
 - [360](https://github.com/Mayandev/interview-schedule/issues/1) -- 2021-07-23
 ## 面试中
+- [快手](https://github.com/Mayandev/interview-schedule/issues/25) -- 2021-09-02
 - [小红书](https://github.com/Mayandev/interview-schedule/issues/23) -- 2021-09-01
 - [知乎](https://github.com/Mayandev/interview-schedule/issues/18) -- 2021-08-10
 - [美团](https://github.com/Mayandev/interview-schedule/issues/15) -- 2021-09-01
 - [百度](https://github.com/Mayandev/interview-schedule/issues/10) -- 2021-08-04
+<details><summary>显示更多</summary>
+
 - [拼多多](https://github.com/Mayandev/interview-schedule/issues/9) -- 2021-09-01
+</details>
+
