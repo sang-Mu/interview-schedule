@@ -8,18 +8,21 @@
 
 ## 面试日程
 
-| 时间 | 日程 |
-| -- | -- |
+| 时间          | 日程                                                                                                                                                                      |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09/03 17:00 | [拼多多2面](https://www.google.com/calendar/event?eid=NzRzM2dlMWc2NWltOGJiNjYwczZjYjlrYzhvM2diYjE2Z3MzNGJiMWNvczZhZHBoNmNwamNwMWk2OCBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
+| 09/03 18:00 | [贝壳笔试](https://www.google.com/calendar/event?eid=Y29yajZvaG5jbGlqMmI5ZzcxaGppYjlrNzVnbThiOXA2OWgzMmI5azZrcTYyYzFpNmtxbWFjYjQ3NCBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn)  |
+| 09/03 20:45 | [小红书2面](https://www.google.com/calendar/event?eid=Y2dxMzhwMW1jOG9qZWJiMWNjcDM4YjlrY2dyajJiYjE2MHI2NmI5bGNrcTNnZDlwYzhwM2djOWdjbyBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
+| 09/07 11:00 | [快手2面](https://www.google.com/calendar/event?eid=NzFnamVwaG1jb3FtY2JiNTZwaTY2YjlrNmRoMzRiOXA3NHMzZ2I5bGM4cjNlZWIzYzhzNjJkMzI2byBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn)  |
 
 ## Offer
 - [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-09-01
 ## 已投递
 - [携程](https://github.com/Mayandev/interview-schedule/issues/17) -- 2021-08-09
 - [招商银行](https://github.com/Mayandev/interview-schedule/issues/12) -- 2021-07-24
-- [网易云音乐](https://github.com/Mayandev/interview-schedule/issues/4) -- 2021-07-29
 ## 待笔试
 - [腾讯](https://github.com/Mayandev/interview-schedule/issues/22) -- 2021-08-19
-- [SHEIN](https://github.com/Mayandev/interview-schedule/issues/8) -- 2021-07-28
+- [【放弃面试】SHEIN](https://github.com/Mayandev/interview-schedule/issues/8) -- 2021-09-02
 - [Zoom](https://github.com/Mayandev/interview-schedule/issues/6) -- 2021-07-23
 - [贝壳](https://github.com/Mayandev/interview-schedule/issues/3) -- 2021-08-17
 - [360](https://github.com/Mayandev/interview-schedule/issues/1) -- 2021-07-23
