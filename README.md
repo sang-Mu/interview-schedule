@@ -8,9 +8,10 @@
 
 ## 面试日程
 
-| 时间          | 日程                                                                                                                                                                     |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 09/07 11:00 | [快手2面](https://www.google.com/calendar/event?eid=NzFnamVwaG1jb3FtY2JiNTZwaTY2YjlrNmRoMzRiOXA3NHMzZ2I5bGM4cjNlZWIzYzhzNjJkMzI2byBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
+| 时间          | 日程                                                                                                                                                                       |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 09/07 11:00 | [快手2面](https://www.google.com/calendar/event?eid=NzFnamVwaG1jb3FtY2JiNTZwaTY2YjlrNmRoMzRiOXA3NHMzZ2I5bGM4cjNlZWIzYzhzNjJkMzI2byBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn)   |
+| 09/08 16:00 | [pdd 三面](https://www.google.com/calendar/event?eid=NmtzNjRkajY2a3EzOGJiMTZoaWpnYjlrNjhvMzBiOW83NHIzZ2I5ZzZsaG0yb3BuNm9vamljMWk2NCBjNmtlb2lsYWZ2OTlwMTl2bDdmYWlkdThta0Bn) |
 
 ## Offer
 - [声网](https://github.com/Mayandev/interview-schedule/issues/20) -- 2021-09-01
