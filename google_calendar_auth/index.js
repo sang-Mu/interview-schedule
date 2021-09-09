@@ -15,10 +15,14 @@
  * limitations under the License.
  */
 // [START calendar_quickstart]
+
 const fs = require('fs');
 const readline = require('readline');
 const { google } = require('googleapis');
+
 // // 如果显示请求被 reset，请添加上下面两行的代理，但是不要 push 这两行代码
+process.env.HTTPS_PROXY = 'http://127.0.0.1:1080';
+google.options({ proxy: 'http://127.0.0.1:1080' });
 // process.env.HTTPS_PROXY = 'Your proxy';
 // google.options({ proxy: 'Your proxy' });
 // If modifying these scopes, delete token.json.
@@ -63,6 +67,8 @@ function authorize(credentials) {
  * @param {google.auth.OAuth2} oAuth2Client The OAuth2 client to get token for.
  * @param {getEventsCallback} callback The callback for the authorized client.
  */
+ 
+
 function getAccessToken(oAuth2Client) {
   const authUrl = oAuth2Client.generateAuthUrl({
     access_type: 'offline',
@@ -90,6 +96,8 @@ function getAccessToken(oAuth2Client) {
     });
   });
 }
+
+
 
 // [END calendar_quickstart]
 
