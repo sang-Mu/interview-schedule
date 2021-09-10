@@ -11,5 +11,5 @@
 | 时间 | 日程 |
 | -- | -- |
 
-## 已投递
+## 待面试
 - [三七互娱](https://github.com/sang-Mu/interview-schedule/issues/13) -- 2021-09-10
