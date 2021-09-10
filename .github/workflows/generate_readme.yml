@@ -28,15 +28,16 @@ jobs:
         node schedule.js '${{secrets.GCAL_ID}}' '${{secrets.GCAL_CLIENT_ID}}' '${{secrets.GCAL_CLIENT_SECRET}}' '${{secrets.GCAL_ACCESS_TOKEN}}'  '${{secrets.GCAL_REFRESH_TOKEN}}'
         node index.js '${{ secrets.ACCESS_TOKEN }}'
     - name: Commit files
-      uses: github-actions-x/commit@v2.8
+#       uses: github-actions-x/commit@v2.8
+      uses: actions-js/push@v1.3
       with:
         github-token: ${{ secrets.ACCESS_TOKEN }}
-        push-branch: 'main'
-        commit-message: "(Auto) push new interview schedule"
-        force-add: 'true'
-        rebase: 'true'
-        name: 'virtuals'
-        email: 'sangmu.hhj@gmail.com'
+        branch: 'main'
+#         commit-message: "(Auto) push new interview schedule"
+#         force-add: 'true'
+#         rebase: 'true'
+        author_name: 'sang-Mu'
+        author_email: 'sangmu.hhj@gmail.com'
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
