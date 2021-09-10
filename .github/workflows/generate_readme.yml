@@ -3,7 +3,7 @@ name: Generate Job Information README
 on:
   workflow_dispatch:
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "0 0 * * *"
   issues:
     types: [opened]
   push:
@@ -28,15 +28,13 @@ jobs:
         node schedule.js '${{secrets.GCAL_ID}}' '${{secrets.GCAL_CLIENT_ID}}' '${{secrets.GCAL_CLIENT_SECRET}}' '${{secrets.GCAL_ACCESS_TOKEN}}'  '${{secrets.GCAL_REFRESH_TOKEN}}'
         node index.js '${{ secrets.ACCESS_TOKEN }}'
     - name: Commit files
-      uses: github-actions-x/commit@v2.8
+      uses: github-actions-x/commit@v2.6
       with:
         github-token: ${{ secrets.ACCESS_TOKEN }}
-        push-branch: 'main'
-        force-add: 'true'
         commit-message: "(Auto) push new interview schedule"
         rebase: 'true'
-        name: 'sang-Mu'
-        email: 'sang-Mu@github.com'
+        name: 'GitHub Action'
+        email: 'actions@github.com'
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
