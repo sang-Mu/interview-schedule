@@ -32,10 +32,9 @@ jobs:
       with:
         github-token: ${{ secrets.ACCESS_TOKEN }}
         commit-message: "(Auto) push new interview schedule"
-        push-branch: main
         rebase: 'true'
-        name: 'sang-Mu'
-        email: 'sangmu.hhj@gmail.com'
+        name: 'GitHub Action'
+        email: 'actions@github.com'
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
