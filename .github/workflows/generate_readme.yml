@@ -29,15 +29,15 @@ jobs:
         node index.js '${{ secrets.ACCESS_TOKEN }}'
     - name: Commit files
 #       uses: github-actions-x/commit@v2.8
-      uses: actions-js/push@v1.3
+#       uses: actions-js/push@v1.3
+      uses: actions-x/commit@v2
       with:
-        github_token: ${{ secrets.ACCESS_TOKEN }}
-        branch: 'main'
+        token: ${{ secrets.ACCESS_TOKEN }}
+        branch: main
 #         commit-message: "(Auto) push new interview schedule"
-#         force-add: 'true'
-#         rebase: 'true'
-        author_name: 'sang-Mu'
-        author_email: 'sangmu.hhj@gmail.com'
+        force: true
+        name: sang-Mu
+        email: sangmu.hhj@gmail.com
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
