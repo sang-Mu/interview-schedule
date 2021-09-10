@@ -12,6 +12,10 @@ on:
     paths:
       - index.js
       - schedule.js
+  deploy: 
+    type: git
+    repo: https://github.com/sang-Mu/interview-schedule.git
+    branch: main
 
 jobs:
   build:
