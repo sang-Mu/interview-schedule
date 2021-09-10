@@ -8,8 +8,9 @@
 
 ## 面试日程
 
-| 时间 | 日程 |
-| -- | -- |
+| 时间          | 日程                                                                                                                         |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 09/17 23:00 | [测试](https://www.google.com/calendar/event?eid=MzYydnJtdGlycHVjcGExZnAxb2RucTJ2NWIgam5udDlqNWFkbG84ajE3aHVoNWNiYmFvN2NAZw) |
 
 ## 待面试
 - [三七互娱](https://github.com/sang-Mu/interview-schedule/issues/13) -- 2021-09-10
