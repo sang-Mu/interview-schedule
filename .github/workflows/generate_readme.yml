@@ -28,9 +28,11 @@ jobs:
         node schedule.js '${{secrets.GCAL_ID}}' '${{secrets.GCAL_CLIENT_ID}}' '${{secrets.GCAL_CLIENT_SECRET}}' '${{secrets.GCAL_ACCESS_TOKEN}}'  '${{secrets.GCAL_REFRESH_TOKEN}}'
         node index.js '${{ secrets.ACCESS_TOKEN }}'
     - name: Commit files
-      uses: github-actions-x/commit@v2.6
+      uses: github-actions-x/commit@v2.8
       with:
         github-token: ${{ secrets.ACCESS_TOKEN }}
+        push-branch: 'main'
+        force-add: 'true'
         commit-message: "(Auto) push new interview schedule"
         rebase: 'true'
         name: 'GitHub Action'
