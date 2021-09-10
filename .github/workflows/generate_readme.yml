@@ -31,7 +31,7 @@ jobs:
 #       uses: github-actions-x/commit@v2.8
       uses: actions-js/push@v1.3
       with:
-        github-token: ${{ secrets.ACCESS_TOKEN }}
+        github_token: ${{ secrets.ACCESS_TOKEN }}
         branch: 'main'
 #         commit-message: "(Auto) push new interview schedule"
 #         force-add: 'true'
