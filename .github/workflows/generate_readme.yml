@@ -35,7 +35,6 @@ jobs:
         commit-message: "(Auto) push new interview schedule"
         force-add: 'true'
         rebase: 'true'
-        files: a.txt b.txt c.txt dirA/ dirB/ dirC/a.txt
         name: 'virtuals'
         email: 'sangmu.hhj@gmail.com'
     - name: Push changes
