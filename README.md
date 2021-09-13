@@ -16,7 +16,6 @@
 ## 已投递
 - [美团](https://github.com/sang-Mu/interview-schedule/issues/25) -- 2021-09-13
 - [同花顺](https://github.com/sang-Mu/interview-schedule/issues/24) -- 2021-09-13
-- [拼多多](https://github.com/sang-Mu/interview-schedule/issues/23) -- 2021-09-12
 - [莉莉丝游戏](https://github.com/sang-Mu/interview-schedule/issues/22) -- 2021-09-12
 - [汇量科技](https://github.com/sang-Mu/interview-schedule/issues/21) -- 2021-09-12
 <details><summary>显示更多</summary>
