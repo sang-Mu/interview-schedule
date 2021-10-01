@@ -26,13 +26,14 @@
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
 ## 一轮面试
+- [bytedance](https://github.com/sang-Mu/interview-schedule/issues/29) -- 2021-10-01
 - [太平洋网络](https://github.com/sang-Mu/interview-schedule/issues/28) -- 2021-10-01
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
 - [小鹅通](https://github.com/sang-Mu/interview-schedule/issues/18) -- 2021-10-01
-- [yy](https://github.com/sang-Mu/interview-schedule/issues/16) -- 2021-10-01
 <details><summary>显示更多</summary>
 
+- [yy](https://github.com/sang-Mu/interview-schedule/issues/16) -- 2021-10-01
 - [太平洋网络](https://github.com/sang-Mu/interview-schedule/issues/14) -- 2021-10-01
 </details>
 
@@ -41,13 +42,14 @@
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [太平洋网络](https://github.com/sang-Mu/interview-schedule/issues/14) -- 2021-10-01
 ## 已投递
+- [bytedance](https://github.com/sang-Mu/interview-schedule/issues/29) -- 2021-10-01
 - [太平洋网络](https://github.com/sang-Mu/interview-schedule/issues/28) -- 2021-10-01
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
 - [美团](https://github.com/sang-Mu/interview-schedule/issues/25) -- 2021-09-13
-- [同花顺](https://github.com/sang-Mu/interview-schedule/issues/24) -- 2021-09-13
 <details><summary>显示更多</summary>
 
+- [同花顺](https://github.com/sang-Mu/interview-schedule/issues/24) -- 2021-09-13
 - [莉莉丝游戏](https://github.com/sang-Mu/interview-schedule/issues/22) -- 2021-09-12
 - [汇量科技](https://github.com/sang-Mu/interview-schedule/issues/21) -- 2021-09-12
 - [帆软](https://github.com/sang-Mu/interview-schedule/issues/20) -- 2021-10-01
