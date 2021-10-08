@@ -20,14 +20,15 @@
 - [yy](https://github.com/sang-Mu/interview-schedule/issues/16) -- 2021-10-01
 - [三七互娱](https://github.com/sang-Mu/interview-schedule/issues/13) -- 2021-10-01
 ## hr面
-- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-01
+- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-07
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
 ## Offer
+- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-07
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
 ## 一轮面试
-- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-01
+- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-07
 - [bytedance](https://github.com/sang-Mu/interview-schedule/issues/29) -- 2021-10-01
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
@@ -42,7 +43,7 @@
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [太平洋网络](https://github.com/sang-Mu/interview-schedule/issues/14) -- 2021-10-01
 ## 已投递
-- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-01
+- [玄武科技](https://github.com/sang-Mu/interview-schedule/issues/30) -- 2021-10-07
 - [bytedance](https://github.com/sang-Mu/interview-schedule/issues/29) -- 2021-10-01
 - [网证通](https://github.com/sang-Mu/interview-schedule/issues/27) -- 2021-10-01
 - [芦苇科技](https://github.com/sang-Mu/interview-schedule/issues/26) -- 2021-10-01
