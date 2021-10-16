@@ -8,9 +8,8 @@
 
 ## 面试日程
 
-| 时间          | 日程                                                                                                                           |
-| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 10/15 15:00 | [顺丰笔试](https://www.google.com/calendar/event?eid=NWNiMWt1N3JtNnIxM244aGlncjA1Mm5tb2sgam5udDlqNWFkbG84ajE3aHVoNWNiYmFvN2NAZw) |
+| 时间 | 日程 |
+| -- | -- |
 
 ## GG
 - [帆软](https://github.com/sang-Mu/interview-schedule/issues/20) -- 2021-10-01
